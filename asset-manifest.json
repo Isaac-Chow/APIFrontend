@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/APIFrontend/static/css/main.f855e6bc.css",
+    "main.js": "/APIFrontend/static/js/main.d97142e1.js",
+    "index.html": "/APIFrontend/index.html",
+    "main.f855e6bc.css.map": "/APIFrontend/static/css/main.f855e6bc.css.map",
+    "main.d97142e1.js.map": "/APIFrontend/static/js/main.d97142e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d97142e1.js"
+  ]
+}
